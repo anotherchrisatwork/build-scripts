@@ -5,5 +5,5 @@ mkdir everything
 cd everything
 yarn init -y
 for i in `cat ../all.packages.txt` ; do
-  npm add $i
+  npm add $i --save
 done

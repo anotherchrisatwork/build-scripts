@@ -2,6 +2,7 @@ apexcharts
 @babel/core
 babel-loader
 blankie
+@blueprintjs/core
 boom
 calidation
 catbox
@@ -36,6 +37,7 @@ inert
 javascript-state-machine
 jest-enzyme
 jest-styled-components
+jexcel
 joi
 jsdoc
 lodash.isequal
@@ -43,6 +45,7 @@ lout
 memoize-one
 mobx
 mobx-react
+mobx-react-lite
 mocha
 mocha-headless-chrome
 navi
@@ -55,8 +58,11 @@ react
 react-apexcharts
 react-beautiful-dnd
 react-cytoscape
+react-datepicker
 react-dom
+react-dotdotdot
 react-fuzzy-picker
+react-mosaic-component
 react-navi
 @react-pdf/renderer
 react-scripts
@@ -64,9 +70,13 @@ react-scripts-mdx
 react-scripts-ts
 react-spring
 react-test-renderer
+react-toastify
+react-transition-group
 react-vis
 react-window
 reaviz
+request
+request-promise-native
 semantic-ui-css
 semantic-ui-react
 @storybook/addon-actions
@@ -77,12 +87,17 @@ semantic-ui-react
 @storybook/cli
 @storybook/react
 styled-components
+testcafe
+testcafe-react-selectors
 tslint
 typescript
 @types/jest
 @types/node
 @types/react
 @types/react-dom
+@types/react-transition-group
+@types/styled-components
+@types/yup
 vision
 waterline
 webdatarocks
