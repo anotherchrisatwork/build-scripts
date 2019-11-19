@@ -1,5 +1,6 @@
 #!/bin/bash
 export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+export TAIKO_SKIP_CHROMIUM_DOWNLOAD=true
 rm -f all.packages.txt all.packages.txt.uns
 for i in `cat all_projects.txt` ; do
   echo "Doing $i"
